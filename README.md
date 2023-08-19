@@ -8,10 +8,10 @@ Buenos
 
 ## ▪️ Mis proyectos personales 🧐
 
-◦ [EN construcción]
+◦ [🗒️🗒️🗒️ Autoproyectos 🗒️🗒️🗒️](https://github.com/gjmacias/autoproyectos)
 
 ## ▪️ Experiencias con:
-◦ <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> Bash.
+◦ <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>Bash.
 
 ◦ <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" /> 
 C  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>C## <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="python" width="40" height="40"/>Python <img style="margin: 40px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="js" width="40" height="40"/>JavaScript.
