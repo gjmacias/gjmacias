@@ -1,6 +1,6 @@
 <h1 align="center"> Presente! Aqui Galo!👋 </h1>
 
-Buenos
+Bienvenido a mi perfil! Aqui encontraras todos mis proyectos. Desde los que estoy haciendo por el campus 42Barcelona hasta los mios propios. Disfruta de tu estancia ;)
 
 ## ▪️ Mi progreso en 42 BCN 🌠
 
