@@ -11,10 +11,15 @@ Bienvenido a mi perfil! Aqui encontraras todos mis proyectos. Desde los que esto
 ◦ [🗒️ Autoproyectos 🗒️](https://github.com/gjmacias/autoproyectos)
 
 ## ▪️ Experiencias con:
-◦ <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>Bash.
+#### Editores:
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)  
 
-◦ <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" /> 
-C  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>C++ <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="python" width="40" height="40"/>Python <img style="margin: 40px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="js" width="40" height="40"/>JavaScript.
+#### Lenguajes:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ◦ <img style="margin: 20px" src="https://hoplasoftware.com/wp-content/uploads/2021/07/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" width="80" height="40"/> mySQL     <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/1200px-Cassandra_logo.svg.png" width="80" height="40"/> NOSQL.
 
