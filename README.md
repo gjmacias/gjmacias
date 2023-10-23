@@ -4,11 +4,11 @@ Bienvenido a mi perfil! Aqui encontraras todos mis proyectos. Desde los que esto
 
 ## ▪️ Mi progreso en 42 BCN 🌠
 
-◦ [👾👾👾 42BCN 👾👾👾](https://github.com/gjmacias/42BCN)
+◦ [👾 42BCN 👾](https://github.com/gjmacias/42BCN)
 
 ## ▪️ Mis proyectos personales 🧐
 
-◦ [🗒️🗒️🗒️ Autoproyectos 🗒️🗒️🗒️](https://github.com/gjmacias/autoproyectos)
+◦ [🗒️ Autoproyectos 🗒️](https://github.com/gjmacias/autoproyectos)
 
 ## ▪️ Experiencias con:
 ◦ <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>Bash.
