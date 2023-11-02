@@ -2,13 +2,13 @@
 
 Bienvenido a mi perfil! Aqui encontraras todos mis proyectos. Desde los que estoy haciendo por el campus 42Barcelona hasta los mios propios. Disfruta de tu estancia ;)
 
-## ▪️ Mi progreso en 42 BCN 🌠
+## ▪️ Mi progreso en 42 BCN:
 
-◦ [👾 42BCN 👾](https://github.com/gjmacias/42BCN)
+◦ [42BCN](https://github.com/gjmacias/42BCN)
 
-## ▪️ Mis proyectos personales 🧐
+## ▪️ Mis proyectos personales:
 
-◦ [🗒️ Autoproyectos 🗒️](https://github.com/gjmacias/autoproyectos)
+◦ [Autoproyectos](https://github.com/gjmacias/autoproyectos)
 
 ## ▪️ Experiencias con:
 #### Editores:
@@ -38,7 +38,7 @@ Bienvenido a mi perfil! Aqui encontraras todos mis proyectos. Desde los que esto
 [![TIA Portal](https://img.shields.io/badge/TIA%20Portal-%238A2BE2.svg?style=for-the-badge&logo=siemens&logoColor=white)](https://en.wikipedia.org/wiki/TIA_Portal)
 [![KUKA Robotics](https://img.shields.io/badge/KUKA%20Robotics-%23FFD500.svg?style=for-the-badge&logo=kuka&logoColor=black)](https://www.kuka.com/)
 
-## ▪️ Contactame 📥
+## ▪️ Contactame
 
 Email: gmacias-@student.42barcelona.com
 <!--
