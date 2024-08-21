@@ -40,7 +40,7 @@ Bienvenido a mi perfil! Aqui encontraras todos mis proyectos. Desde los que esto
 
 ## ▪️ Contactame
 
-Email: gmacias-@student.42barcelona.com
+Email: ilsmaciaszambranogalo@gmail.com
 <!--
 **gjmacias/gjmacias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
