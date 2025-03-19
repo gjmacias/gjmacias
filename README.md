@@ -1,14 +1,26 @@
 <h1 align="center"> Presente! Aqui Galo! </h1>
 
-Bienvenido a mi perfil! Aqui encontraras todos mis proyectos. Desde los que estoy haciendo por el campus 42Barcelona hasta los mios propios. Disfruta de tu estancia!
+Bienvenido a mi perfil! Aqui encontraras todos mis proyectos. Hay proyectos hechos desde C,C++ hasta docker y JavaScript. Disfruta de tu estancia!
 
-## ▪️ Mi progreso en 42 BCN:
+## ▪️ Mis proyectos en C:
 
-◦ [42BCN](https://github.com/gjmacias/42BCN)
+◦ [C](https://github.com/gjmacias/C)
 
-## ▪️ Mis proyectos personales:
+## ▪️ Mis proyectos en C++:
 
-◦ [Autoproyectos](https://github.com/gjmacias/autoproyectos)
+◦ [C++](https://github.com/gjmacias/C-plusplus)
+
+## ▪️ Mis proyectos en Docker:
+
+◦ [Docker](https://github.com/gjmacias/Docker)
+
+## ▪️ Mis proyectos en Python:
+
+◦ [Proyectos de Python](https://github.com/gjmacias/Python)
+
+## ▪️ Mis proyectos en JS:
+
+◦ [Proyectos de JS](https://github.com/gjmacias/JS)
 
 ## ▪️ Experiencias con:
 #### Editores:
@@ -41,17 +53,3 @@ Bienvenido a mi perfil! Aqui encontraras todos mis proyectos. Desde los que esto
 ## ▪️ Contactame
 
 Email: ilsmaciaszambranogalo@gmail.com
-<!--
-**gjmacias/gjmacias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
